@@ -24,7 +24,7 @@ O podcastr é um app para reprodução de episódios em áudio do seu podcast fa
 
 🔖 Layout 
 
-Você pode visualizar o layout do projeto através desse link. É necessário ter conta no Figma para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no Figma para acessá-lo.
 
 🚀 Como executar 
 
@@ -36,6 +36,6 @@ Você pode visualizar o layout do projeto através desse link. É necessário te
 
 📄 Licença 
 
-Esse projeto está sob a licença MIT. Veja o arquivo [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-05-reactjs/blob/main/LICENSE.md) para mais detalhes.
 
 Feito com ♥ by Rocketseat 👋🏻 Participe da nossa comunidade!
