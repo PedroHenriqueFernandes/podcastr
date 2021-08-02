@@ -36,6 +36,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 📄 Licença 
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-05-reactjs/blob/main/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-06-reactjs/blob/master/LICENSE.md) para mais detalhes.
 
 Feito com ♥ by Rocketseat 👋🏻 Participe da nossa comunidade!
