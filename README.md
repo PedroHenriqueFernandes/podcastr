@@ -11,10 +11,6 @@
   <img src="https://camo.githubusercontent.com/6e642f4d22edec80ffbd550385101a8773b7f157be02054e54a6a5f29bce5b3e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4e4c57266d6573736167653d303526636f6c6f723d383235374535266c6162656c436f6c6f723d303030303030" />
 </p>
 
-License NLW 05
-
-Podcastr
-
 ✨ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
