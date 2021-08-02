@@ -1,4 +1,4 @@
-https://github.com/rocketseat-education/nlw-05-reactjs#--
+https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/logo.svg
 
 License NLW 05
 
