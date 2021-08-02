@@ -1,4 +1,4 @@
-https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/logo.svg
+![Alt text](https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/logo.svg "Logo")
 
 License NLW 05
 
