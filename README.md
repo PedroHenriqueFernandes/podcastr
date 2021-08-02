@@ -1,4 +1,6 @@
-![Alt text](https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/logo.svg "Logo")
+<p align="center">
+  <img src="https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/logo.svg" />
+</p>
 
 License NLW 05
 
