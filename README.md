@@ -9,9 +9,10 @@ Podcastr
 ✨ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-React
-Next.js
-TypeScript
+* React
+* Next.js
+* TypeScript
+
 💻 Projeto
 O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
 
@@ -19,6 +20,7 @@ O podcastr é um app para reprodução de episódios em áudio do seu podcast fa
 Você pode visualizar o layout do projeto através desse link. É necessário ter conta no Figma para acessá-lo.
 
 🚀 Como executar
+
 Clone o repositório
 Instale as dependências com yarn
 Inicie a fake api com yarn server
