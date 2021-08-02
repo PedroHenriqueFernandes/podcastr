@@ -2,6 +2,10 @@
   <img src="https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/logo.svg" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/PedroHenriqueFernandes/podcastr/blob/main/public/podcastrscreenshot.png" />
+</p>
+
 License NLW 05
 
 Podcastr
