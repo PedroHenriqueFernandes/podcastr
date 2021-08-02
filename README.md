@@ -24,6 +24,6 @@ Inicie o servidor com yarn dev
 Agora você pode acessar localhost:3000 do seu navegador.
 
 📄 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo ![Alt text](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate "LICENSE") para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate) para mais detalhes.
 
 Feito com ♥ by Rocketseat 👋🏻 Participe da nossa comunidade!
